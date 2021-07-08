@@ -1,16 +1,30 @@
-### Hi there 👋
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Reut Levenberg </h1>
 
-<!--
-**Reut-Levenberg/Reut-Levenberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-Here are some ideas to get you started:
+✔ I’m a third-year student studying **software engineering** at the Lev Academic Center.<br>
+✔ I specialize in **AI** and **data science**.<br>
+✔ How to reach me: reut.baum@gmail.com<br>
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
+<p align="left">
+  
+  
+  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/r-project/r-project-ar21.svg"></code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg"></code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"></code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
+  <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"></code>
+
+  <p align="center">
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+ 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Reut-Levenberg&show_icons=true&locale=en&layout=compact" alt="ovi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Reut-Levenberg&show_icons=true&locale=en" alt="ovi" width="410" /></p>
+<br><br><br><br><br>
+
+<hr>
+
