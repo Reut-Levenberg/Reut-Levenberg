@@ -19,12 +19,8 @@
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
   <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"></code>
 
-  <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
- 
+  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Reut-Levenberg&show_icons=true&locale=en&layout=compact" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Reut-Levenberg&show_icons=true&locale=en" alt="ovi" width="410" /></p>
-<br><br><br><br><br>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Reut-Levenberg&show_icons=true&locale=en" alt="ovi" width="410" /></p>
 
-<hr>
 
