@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Reut Levenberg </h1>
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
+&nbsp;***About me ....***
 
 ✔ I’m a third-year student studying **software engineering** at the Lev Academic Center.<br>
 ✔ I specialize in **AI** and **data science**.<br>
