@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Reut Levenberg </h1>
+<h1 align="center">Hi, I am Reut Levenberg </h1>
 
 &nbsp;***About me ....***
 
@@ -7,7 +7,7 @@
 ✔ How to reach me: reut.baum@gmail.com<br>
  
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***My working tools...***
+&nbsp;***My working tools...***
 <p align="left">
   
   
