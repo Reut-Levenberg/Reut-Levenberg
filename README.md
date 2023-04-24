@@ -10,8 +10,8 @@
 &nbsp;***My working tools...***
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,cs,cpp,css,html,java,js,mongodb,py,redux,vscode" />
+  </a>cpp,css,html,java,js,mongodb,py,redux,vscode
 </p>
 
 <p align="left">
