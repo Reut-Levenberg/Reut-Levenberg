@@ -11,19 +11,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,bootstrap,cs,cpp,css,html,java,js,mongodb,py,redux,vscode" />
-  </a>cpp,css,html,java,js,mongodb,py,redux,vscode
 </p>
-
-<p align="left">
-  
-  
-  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/r-project/r-project-ar21.svg"></code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg"></code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"></code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
-  <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"></code>
 
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Reut-Levenberg&show_icons=true&locale=en&layout=compact" alt="ovi" /></p>
