@@ -2,7 +2,7 @@
 
 &nbsp;***About me ....***
 
-✔ I’m a third-year student studying **software engineering** at the Lev Academic Center.<br>
+✔ B.Sc **software engineering** at the Lev Academic Center.<br>
 ✔ I specialize in **AI** and **data science**.<br>
 ✔ How to reach me: reut.baum@gmail.com<br>
  
